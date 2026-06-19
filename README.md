@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://images.steamusercontent.com/ugc/1834651321035013296/7F3ECE24B29ECBE7AC43493C6D6DE75AA902071F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="100%" style="border-radius: 8px; margin-bottom: 25px;" alt="Evangelion Banner">
 
-  <img src="https://github.com/Gael-Ands.png" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ED8B00; margin-bottom: 10px;" alt="Foto de Perfil">
+
 
   # Hola, soy Gael
   UTTEC | Grado y Grupo: 3DSM4 (Universidad Tecnológica de Tecámac)
