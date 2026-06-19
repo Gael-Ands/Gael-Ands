@@ -4,7 +4,6 @@
   <img src="https://github.com/Gael-Ands.png" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ED8B00; margin-bottom: 10px;" alt="Foto de Perfil">
 
   # Hola, soy Gael
-  ## Junior Software Developer & Network Enthusiast
   UTTEC | Grado y Grupo: 3DSM4 (Universidad Tecnológica de Tecámac)
 </div>
 
